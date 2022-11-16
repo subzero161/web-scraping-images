@@ -4,3 +4,6 @@
 
 #### Help was taken from stackoverflow using the following link
     https://stackoverflow.com/questions/20716842/python-download-images-from-google-image-search
+
+#### Another potential solution is to use import package from pypi
+    https://pypi.org/project/google_images_download/
