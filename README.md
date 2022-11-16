@@ -7,3 +7,6 @@
 
 #### Another potential solution is to use import package from pypi
     https://pypi.org/project/google_images_download/
+
+#### webb package is a viable solution too
+        https://pypi.org/project/webb/
